@@ -97,13 +97,11 @@ To reproduce WFM-TTS's test-time scaling results:
 ## ✅ Citation
 If you find this work useful, please cite:
 ```bibtex
-@misc{cong2024WFM-TTS,
-      title={Can Test-Time Scaling Improve World Foundation Models?},
-      author={Wenyan Cong and Hanqing Zhu and Peihao Wang and Bangya Liu and Dejia Xu and Kevin Wang and David Z. Pan and Yan Wang and Zhiwen Fan and Zhangyang Wang},
-      year={2024},
-      eprint={2503.24320},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{cong2025wfm-tts,
+  title     = {Can Test-Time Scaling Improve World Foundation Models?},
+  author    = {Wenyan Cong and Hanqing Zhu and Peihao Wang and Bangya Liu and Dejia Xu and Kevin Wang and David Z. Pan and Yan Wang and Zhiwen Fan and Zhangyang Wang},
+  booktitle = {COLM},
+  year      = {2025}
 }
 ```
 
