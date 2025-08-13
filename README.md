@@ -86,7 +86,7 @@ To reproduce WFM-TTS's test-time scaling results:
 - Follow [cosmos_inference_autoregressive_video2world](https://github.com/nvidia-cosmos/cosmos-predict1/blob/main/examples/inference_autoregressive_video2world.md) for **COSMOS 5B/13B** models.
 
 ### 2. Download Evaluation Dataset
-- Download the [900 autonomous driving test sequences]() we prepared using NuScenes dataset and Waymo dataset, and put it under `assets/autoregressive/`
+- Download the [900 autonomous driving test sequences](https://drive.google.com/drive/folders/1X5O6vRk81Svh8ztdMxIWIfGKFkE5oT4R?usp=sharing) we prepared using NuScenes dataset and Waymo dataset, and put it under `assets/autoregressive/`
 
 ### 3. Run WFM-TTS Scripts
 - Run any of the provided test-time scaling scripts located in `scripts/`, for example:
